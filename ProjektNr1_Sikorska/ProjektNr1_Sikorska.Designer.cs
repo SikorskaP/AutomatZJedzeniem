@@ -1325,7 +1325,7 @@
             this.psLblInformacjeOAutorze.Name = "psLblInformacjeOAutorze";
             this.psLblInformacjeOAutorze.Size = new System.Drawing.Size(187, 62);
             this.psLblInformacjeOAutorze.TabIndex = 10;
-            this.psLblInformacjeOAutorze.Text = "Maszyna vendingowa\r\nAutor: Paulina Sikorska\r\nNumer index: 53491";
+            this.psLblInformacjeOAutorze.Text = "Maszyna vendingowa\r\nAutor: Paulina Sikorska";
             this.psLblInformacjeOAutorze.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // psPanelPłatności
